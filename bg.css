@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg{
+    background: url("image/bI-4.avif");
+    height: 620px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  p.b {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: large;
+    padding: 7px;
+  }
+
+.text-muted{
+    color: #909497;
+    font-family:  "MS UI Gothic";
+    font-style: italic;
+    margin-left: 5%;
+    font-size: large;
+    
+}
+
+/* Ink Free*/
+
+  .react{
+    color: #087ea4;
+    
+  }
+
+  .java{
+    width: 40px;
+    height: 40px;
+ 
+  }
+
+  .code{
+    color: #fcb900;
+    padding: 15px;
+  }
+
+  
